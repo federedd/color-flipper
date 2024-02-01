@@ -1,6 +1,6 @@
 # Color Flipper Project
 
-This project is a simple color flipper that allows users to change the background color with a click of a button. It comes in two versions: Simple and Hex. I did this following a freecodecamp.com tutorial that can be found [here](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=4296s)
+This project is a simple color flipper that allows users to change the background color with a click of a button. It comes in two versions: Simple and Hex. I did this following a freecodecamp.com tutorial that can be found [here](https://youtu.be/3PHXvlpOkf4?si=24oyKmnIX6DKkGcw)
 
 ## Table of Contents
 
